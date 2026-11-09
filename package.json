@@ -1,1 +1,14 @@
-
+{
+  "name": "hamlet-organisations",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Hamlet Organisations — organisational workspaces and membership for Hamlet.",
+  "license": "UNLICENSED",
+  "scripts": {
+    "check": "node --check scripts/*.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
